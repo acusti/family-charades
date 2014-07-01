@@ -1,4 +1,4 @@
-family-charades
+Family Charades
 ===============
 
-Young child-friendly Charades webapp in which the phrases to guess are represented by pictures
+Child-friendly Charades webapp in which the phrases to guess are represented by pictures
